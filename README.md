@@ -55,9 +55,9 @@ Below is the comparison of top commercial and hosted Certificate Transparency mo
 
 ## 💻 Open-Source GitHub Projects
 
-The open-source ecosystem for CT log processing, certificate parsing, and stream filtering is production-ready. Repositories below are sorted by **GitHub Star Count** (descending).
+The open-source ecosystem for CT log processing, certificate parsing, and stream filtering is production-ready. Repositories below are sorted by **GitHub Stars_Count** (descending).
 
-| Project & Repository | GitHub Stars 🌟 | Primary Language / Stack 🛠️ | Description & Strengths 🚀 |
+| Project & Repository | GitHub_Stars 🌟 | Primary Language / Stack 🛠️ | Description & Strengths 🚀 |
 | :--- | :--- | :--- | :--- |
 | **[Sublist3r](https://github.com/aboul3la/Sublist3r)** | [![Sublist3r Stars](https://img.shields.io/github/stars/aboul3la/Sublist3r?style=social&color=white)](https://github.com/aboul3la/Sublist3r/stargazers) | Python 🐍 | Fast OSINT subdomain discovery tool that enumerates subdomains using Certificate Transparency logs (crt.sh, CertSpotter) alongside search engines. |
 | **[CTFR](https://github.com/UnaPibaGeek/ctfr)** | [![CTFR Stars](https://img.shields.io/github/stars/UnaPibaGeek/ctfr?style=social&color=white)](https://github.com/UnaPibaGeek/ctfr/stargazers) | Python 🐍 | Lightning-fast subdomain discoverer using CT log abuse via crt.sh API without sending requests to target hosts. |
@@ -109,7 +109,7 @@ Contributions are welcome! To add or update an entry:
 
 1. Fork this repository 🍴
 2. Modify `README.md` (maintain standard Markdown tabular formatting).
-3. Ensure open-source projects include star count badge syntax linking to stargazers:
+3. Ensure open-source projects include Stars_Count badge syntax linking to stargazers:
    `[![Repo Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`
 4. Open a Pull Request 🚀 with a brief explanation of the tool.
 
